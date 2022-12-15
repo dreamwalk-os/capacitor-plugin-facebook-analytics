@@ -1,7 +1,6 @@
 import Foundation
 import Capacitor
 import FBSDKCoreKit
-import FBSDKCoreKit.FBSDKSettings
 import AppTrackingTransparency
 
 /**
